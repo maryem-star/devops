@@ -1,0 +1,3 @@
+Bienvenue dans le labo Git
+Ligne a modifier pour provoquer un conflit
+Fin du fichier
